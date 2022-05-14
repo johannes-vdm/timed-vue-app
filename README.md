@@ -6,11 +6,11 @@ Please Note:
 
 ## Changes
 ### App.vue
+- Added label
 - Number input limiting via Vue ( 1 <= Input <= 2000)
 
 
 ### Numbers.vue
-- Added label
 - Changed datatypes
 - Changed default numbers displaying from `0 -> 100` -> `1 -> 100`
 
