@@ -1,8 +1,7 @@
 {
-  "name": "interview-test",
+  "name": "vue-numbers",
   "version": "1.0.0",
   "description": "A test for the interview",
-  "author": "James Martin <james@aluminati.net>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
